@@ -10,4 +10,4 @@ The `.stl` files can be imported into CAD software for further customization or 
 https://sketchfab.com/y.ogesh/models
 
 ##Images
-!1.jpg
+![1.jpg] 1.jpg
