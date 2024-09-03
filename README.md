@@ -10,7 +10,7 @@ The `.stl` files can be imported into CAD software for further customization or 
 https://sketchfab.com/y.ogesh/models
 
 ##Images
-![1.jpg](https://github.com/adityaduvansh1/Rocket-Design/1.jpg)
+![1.jpg](https://github.com/adityaduvansh1/Rocket-Design/branch/main/1.jpg)
 ![2.jpg](https://github.com/adityaduvansh1/Rocket-Design/2.jpg)
 ![3.jpg](https://github.com/adityaduvansh1/Rocket-Design/3.jpg)
 ![4.jpg](https://github.com/adityaduvansh1/Rocket-Design/4.jpg)
